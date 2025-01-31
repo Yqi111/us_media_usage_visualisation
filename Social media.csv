@@ -1,0 +1,177 @@
+platform,dimension,category,percentage
+Be Real,Age,30-49,3
+Be Real,Age,50-64,1
+Be Real,Age,65+,<1
+Be Real,Age,Ages 18-29,12
+Facebook,Age,30-49,75
+Facebook,Age,50-64,69
+Facebook,Age,65+,58
+Facebook,Age,Ages 18-29,67
+Instagram,Age,30-49,59
+Instagram,Age,50-64,35
+Instagram,Age,65+,15
+Instagram,Age,Ages 18-29,78
+Linked In,Age,30-49,40
+Linked In,Age,50-64,31
+Linked In,Age,65+,12
+Linked In,Age,Ages 18-29,32
+Pinterest,Age,30-49,40
+Pinterest,Age,50-64,33
+Pinterest,Age,65+,21
+Pinterest,Age,Ages 18-29,45
+Reddit,Age,30-49,31
+Reddit,Age,50-64,11
+Reddit,Age,65+,3
+Reddit,Age,Ages 18-29,44
+Snapchat,Age,30-49,30
+Snapchat,Age,50-64,13
+Snapchat,Age,65+,4
+Snapchat,Age,Ages 18-29,65
+Tik Tok,Age,30-49,39
+Tik Tok,Age,50-64,24
+Tik Tok,Age,65+,10
+Tik Tok,Age,Ages 18-29,62
+Twitter (X),Age,30-49,27
+Twitter (X),Age,50-64,17
+Twitter (X),Age,65+,6
+Twitter (X),Age,Ages 18-29,42
+Whats App,Age,30-49,38
+Whats App,Age,50-64,29
+Whats App,Age,65+,16
+Whats App,Age,Ages 18-29,32
+You Tube,Age,30-49,92
+You Tube,Age,50-64,83
+You Tube,Age,65+,60
+You Tube,Age,Ages 18-29,93
+Be Real,Gender,Men,2
+Be Real,Gender,Women,5
+Facebook,Gender,Men,59
+Facebook,Gender,Women,76
+Instagram,Gender,Men,39
+Instagram,Gender,Women,54
+Linked In,Gender,Men,31
+Linked In,Gender,Women,29
+Pinterest,Gender,Men,19
+Pinterest,Gender,Women,50
+Reddit,Gender,Men,27
+Reddit,Gender,Women,17
+Snapchat,Gender,Men,21
+Snapchat,Gender,Women,32
+Tik Tok,Gender,Men,25
+Tik Tok,Gender,Women,40
+Twitter (X),Gender,Men,26
+Twitter (X),Gender,Women,19
+Whats App,Gender,Men,27
+Whats App,Gender,Women,31
+You Tube,Gender,Men,82
+You Tube,Gender,Women,83
+Be Real,Income,"$30,000- $69,999",3
+Be Real,Income,"$70,000- $99,999",3
+Be Real,Income,"$100,000+",5
+Be Real,Income,"Less than $30,000",3
+Facebook,Income,"$30,000- $69,999",70
+Facebook,Income,"$70,000- $99,999",74
+Facebook,Income,"$100,000+",68
+Facebook,Income,"Less than $30,000",63
+Instagram,Income,"$30,000- $69,999",46
+Instagram,Income,"$70,000- $99,999",49
+Instagram,Income,"$100,000+",54
+Instagram,Income,"Less than $30,000",37
+Linked In,Income,"$30,000- $69,999",19
+Linked In,Income,"$70,000- $99,999",34
+Linked In,Income,"$100,000+",53
+Linked In,Income,"Less than $30,000",13
+Pinterest,Income,"$30,000- $69,999",34
+Pinterest,Income,"$70,000- $99,999",35
+Pinterest,Income,"$100,000+",41
+Pinterest,Income,"Less than $30,000",27
+Reddit,Income,"$30,000- $69,999",23
+Reddit,Income,"$70,000- $99,999",22
+Reddit,Income,"$100,000+",30
+Reddit,Income,"Less than $30,000",12
+Snapchat,Income,"$30,000- $69,999",30
+Snapchat,Income,"$70,000- $99,999",26
+Snapchat,Income,"$100,000+",25
+Snapchat,Income,"Less than $30,000",27
+Tik Tok,Income,"$30,000- $69,999",37
+Tik Tok,Income,"$70,000- $99,999",34
+Tik Tok,Income,"$100,000+",27
+Tik Tok,Income,"Less than $30,000",36
+Twitter (X),Income,"$30,000- $69,999",21
+Twitter (X),Income,"$70,000- $99,999",20
+Twitter (X),Income,"$100,000+",29
+Twitter (X),Income,"Less than $30,000",18
+Whats App,Income,"$30,000- $69,999",26
+Whats App,Income,"$70,000- $99,999",33
+Whats App,Income,"$100,000+",34
+Whats App,Income,"Less than $30,000",26
+You Tube,Income,"$30,000- $69,999",83
+You Tube,Income,"$70,000- $99,999",86
+You Tube,Income,"$100,000+",89
+You Tube,Income,"Less than $30,000",73
+Be Real,Political Affiliation,Dem/Lean Dem,4
+Be Real,Political Affiliation,Rep/Lean Rep,4
+Facebook,Political Affiliation,Dem/Lean Dem,67
+Facebook,Political Affiliation,Rep/Lean Rep,70
+Instagram,Political Affiliation,Dem/Lean Dem,53
+Instagram,Political Affiliation,Rep/Lean Rep,43
+Linked In,Political Affiliation,Dem/Lean Dem,34
+Linked In,Political Affiliation,Rep/Lean Rep,29
+Pinterest,Political Affiliation,Dem/Lean Dem,35
+Pinterest,Political Affiliation,Rep/Lean Rep,35
+Reddit,Political Affiliation,Dem/Lean Dem,25
+Reddit,Political Affiliation,Rep/Lean Rep,20
+Snapchat,Political Affiliation,Dem/Lean Dem,28
+Snapchat,Political Affiliation,Rep/Lean Rep,27
+Tik Tok,Political Affiliation,Dem/Lean Dem,36
+Tik Tok,Political Affiliation,Rep/Lean Rep,30
+Twitter (X),Political Affiliation,Dem/Lean Dem,26
+Twitter (X),Political Affiliation,Rep/Lean Rep,20
+Whats App,Political Affiliation,Dem/Lean Dem,33
+Whats App,Political Affiliation,Rep/Lean Rep,25
+You Tube,Political Affiliation,Dem/Lean Dem,84
+You Tube,Political Affiliation,Rep/Lean Rep,82
+Be Real,Race & Ethnicity,Asian*,9
+Be Real,Race & Ethnicity,Black,1
+Be Real,Race & Ethnicity,Hispanic,4
+Be Real,Race & Ethnicity,White,3
+Facebook,Race & Ethnicity,Asian*,67
+Facebook,Race & Ethnicity,Black,64
+Facebook,Race & Ethnicity,Hispanic,66
+Facebook,Race & Ethnicity,White,69
+Instagram,Race & Ethnicity,Asian*,57
+Instagram,Race & Ethnicity,Black,46
+Instagram,Race & Ethnicity,Hispanic,58
+Instagram,Race & Ethnicity,White,43
+Linked In,Race & Ethnicity,Asian*,45
+Linked In,Race & Ethnicity,Black,29
+Linked In,Race & Ethnicity,Hispanic,23
+Linked In,Race & Ethnicity,White,30
+Pinterest,Race & Ethnicity,Asian*,30
+Pinterest,Race & Ethnicity,Black,28
+Pinterest,Race & Ethnicity,Hispanic,32
+Pinterest,Race & Ethnicity,White,36
+Reddit,Race & Ethnicity,Asian*,36
+Reddit,Race & Ethnicity,Black,14
+Reddit,Race & Ethnicity,Hispanic,23
+Reddit,Race & Ethnicity,White,21
+Snapchat,Race & Ethnicity,Asian*,25
+Snapchat,Race & Ethnicity,Black,25
+Snapchat,Race & Ethnicity,Hispanic,35
+Snapchat,Race & Ethnicity,White,25
+Tik Tok,Race & Ethnicity,Asian*,29
+Tik Tok,Race & Ethnicity,Black,39
+Tik Tok,Race & Ethnicity,Hispanic,49
+Tik Tok,Race & Ethnicity,White,28
+Twitter (X),Race & Ethnicity,Asian*,37
+Twitter (X),Race & Ethnicity,Black,23
+Twitter (X),Race & Ethnicity,Hispanic,25
+Twitter (X),Race & Ethnicity,White,20
+Whats App,Race & Ethnicity,Asian*,51
+Whats App,Race & Ethnicity,Black,31
+Whats App,Race & Ethnicity,Hispanic,54
+Whats App,Race & Ethnicity,White,20
+You Tube,Race & Ethnicity,Asian*,93
+You Tube,Race & Ethnicity,Black,82
+You Tube,Race & Ethnicity,Hispanic,86
+You Tube,Race & Ethnicity,White,81
